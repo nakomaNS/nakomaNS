@@ -23,7 +23,7 @@ Foco no desenvolvimento Backend com **Java**. Atualmente explorando o ecossistem
 | Projeto | Descrição | Stack Principal |
 | :--- | :--- | :--- |
 | **[EncurtaSimples API](https://github.com/nakomaNS/encurtasimples-api)** | API REST para encurtamento e redirecionamento de URLs, com suporte a cache, registro de acessos e expiração automática de links. | Java 21, Spring Boot, Redis, PostgreSQL |
-
+| **[Economizza API](https://github.com/nakomaNS/economizza-api)** | API REST para gestão financeira pessoal com controle de carteira, transações e metas financeiras. | Java 21, Spring Boot, PostgreSQL, Docker |
 ---
 
 ### O que estou estudando:
